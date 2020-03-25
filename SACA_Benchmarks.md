@@ -10,16 +10,17 @@ All programs were compiled with gcc/g++ using '-O3 -fomit-frame-pointer -DNDEBUG
 
 
 ## Implementations ##
-| Archon4r0   | kvark's sorting algorithm           | http://forum.compression.ru/viewtopic.php?t=352                     |
+| Name        | Description                         | URL                                                                 |
 |:------------|:------------------------------------|:--------------------------------------------------------------------|
+| Archon4r0   | kvark's sorting algorithm           | https://github.com/kvark/dark-archon                                |
 | BPR         | Bucket-Pointer Refinement algorithm | http://bibiserv.techfak.uni-bielefeld.de/bpr/                       |
 | DC          | Difference-Cover algorithm (v = 32) | http://www.cs.helsinki.fi/juha.karkkainen/publications/cpm03.tar.gz |
-| DS          | Deep-Shallow sorting algorithm      | http://www.mfn.unipmn.it/~manzini/lightweight/                      |
+| DS          | Deep-Shallow sorting algorithm      | https://people.unipmn.it/~manzini/papers/esa02.html                 |
 | divsufsort1 | libdivsufsort version 1.2.3         | http://libdivsufsort.googlecode.com/                                |
 | divsufsort2 | libdivsufsort version 2.0.0         | http://libdivsufsort.googlecode.com/                                |
-| KA          | Ko-Aluru algorithm                  | http://ko.pang.cn.googlepages.com/software2                         |
-| KS          | Kärkkäinen-Sanders algorithm        | http://www.mpi-inf.mpg.de/~sanders/programs/suffix/                 |
-| MSufSort3   | MSufSort version 3.1.1 beta         | http://www.michael-maniscalco.com/msufsort.htm                      |
+| KA          | Ko-Aluru algorithm                  | https://lib.dr.iastate.edu/cs_techreports/218/                      |
+| KS          | Kärkkäinen-Sanders algorithm        | https://web.archive.org/web/20140813081249/http://people.mpi-inf.mpg.de/~sanders/programs/suffix/                |
+| MSufSort3   | MSufSort version 3.1.1 beta         | http://www.michael-maniscalco.com/download.htm                      |
 | qsufsort    | Larsson-Sadakane algorithm          | http://www.larsson.dogma.net/research.html                          |
 | sais        | Induced Sorting algorithm           | http://yuta.256.googlepages.com/sais                                |
 
